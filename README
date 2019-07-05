@@ -2,4 +2,5 @@ this is a project for learning cuda
 
 let's start
 
-1. test cuda
+1.device_message.cu 
+    function : show your nvidia device info
